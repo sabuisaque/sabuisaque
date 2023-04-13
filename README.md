@@ -1,6 +1,6 @@
 ### Hello 👋
 - 👋 Hello I'm @sabuisaque
-- 📚 I'm studying at UofT in Mathematics, and the History of Science!
+- 📚 I'm studying at UofT in Mathematics, and the History of Science.
 - 🔭 I’m currently working on some software to aid the use of telescopes!
 - 🌱 I’m currently trying to learn Go, and Typescript.
-- 📫 How to reach me: @sabuisaque on Instagram
+- 📫 Contact me using the sidebar!
